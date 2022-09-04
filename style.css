@@ -76,7 +76,7 @@ header p {
   height: 4px;
 }
 .content {
-  padding: 30px;
+  padding: 25px;
 }
 .content h3 {
   margin: 0;
@@ -89,6 +89,9 @@ header p {
   text-align: right;
 }
 /* FOOTER */
+footer{
+    margin-top: 100px;
+}
 .attribution {
   font-size: 11px;
   text-align: center;
@@ -135,6 +138,9 @@ header p {
     .card{
         width: 355px;
         height: 254px;
+    }
+    .img{
+        margin-top: 60px;
     }
 }
 
